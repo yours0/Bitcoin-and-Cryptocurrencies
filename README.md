@@ -8,9 +8,11 @@ Learn the fundamentals of Bitcoin and the Cryptocurrency space, including the ba
 # 关于这门课程
 
 Developed by Blockchain at Berkeley and faculty from UC Berkeley's premier Computer Science department, this course presents Bitcoin and cryptocurrencies as the motivation for blockchain technologies, and provides a comprehensive and in-depth overview of the fundamental concepts of the crypto space with a particular emphasis on Bitcoin. 
+
 该课程由伯克利的Blockchain和加州大学伯克利分校首席计算机科学系的教师开发，将比特币和加密货币作为区块链技术的动力，并提供全面深入的加密空间基本概念概述，特别强调比特币。
 
 The course covers basic properties of bitcoin, the mechanics behind it (e.g. including cryptographic hash functions, Bitcoin Script, privacy, and hash commitment schemes) and its roots in the Cypherpunk movement and Libertarian ideals. You'll learn about practical applications of Bitcoin such as wallets and mining, as well as how to destroy bitcoins, including network attacks and malicious mining strategies. We will also take a brief look at Ethereum and how blockchain can be used outside of cryptocurrencies. 
+
 该课程涵盖比特币的基本属性，其背后的机制（例如，包括加密哈希函数，比特币脚本，隐私和哈希承诺方案）及其在Cypherpunk运动和自由主义理想中的根源。 您将了解比特币的实际应用，例如钱包和采矿，以及如何销毁比特币，包括网络攻击和恶意挖掘策略。 我们还将简要介绍以太坊以及如何在加密货币之外使用区块链。
 
 This course is open to anyone with any background. Whether you are planning your next career move as a blockchain developer, crypto trader, data analyst, researcher, or consultant, or are just looking for an introduction to the Bitcoin technology. This course will help you to begin developing the critical skills needed to future-proof your career. 

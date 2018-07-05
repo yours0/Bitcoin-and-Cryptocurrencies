@@ -1,11 +1,10 @@
 # 比特币和加密货币
-加州大学伯克利分校Bitcoin and Cryptocurrencies课程中文翻译
+加州大学伯克利分校Bitcoin and Cryptocurrencies比特币和加密货币课程中文翻译
 
 # 课程简介：
 Learn the fundamentals of Bitcoin and the Cryptocurrency space, including the basics of smart contracts, the Ethereum platform and how to build decentralized applications.
 学习比特币和加密货币的基础知识，包括智能合约基础，以太坊平台以及构建去中心化应用程序。
 
-# About this course
 # 关于这门课程
 
 Developed by Blockchain at Berkeley and faculty from UC Berkeley's premier Computer Science department, this course presents Bitcoin and cryptocurrencies as the motivation for blockchain technologies, and provides a comprehensive and in-depth overview of the fundamental concepts of the crypto space with a particular emphasis on Bitcoin. 
@@ -20,7 +19,6 @@ This course is open to anyone with any background. Whether you are planning your
 This course is part of the Blockchain Fundamentals Professional Certificate program.  If you are planning to enroll in the entire series, we suggest starting with this course and then progressing on to Blockchain: Advancing Decentralized Technology.
 本课程是区块链基础专业证书课程的一部分。 如果您计划参加整个系列，我们建议您从本课程开始，然后继续学习区块链：高级去中心化技术。
 
-# What you'll learn
 # 你将学到什么
 1、The basic properties and intent of centralized/decentralized currency and an in-depth understanding of Bitcoin from the ground up, including - Identity, Transactions, Record Keeping, and Consensus.
 中心化/去中心化货币的基本属性和意图，以及从头开始深入理解比特币，包括 - 身份，交易，记录保存和共识。
@@ -35,7 +33,6 @@ This course is part of the Blockchain Fundamentals Professional Certificate prog
 6、The properties behind the second largest blockchain platform, Ethereum, including the Ethereum Virtual Machine and the idea of Turing completeness, the key protocol differences between Bitcoin and Ethereum, the use cases of Ethereum.
 第二大区块链平台，以太坊背后的属性，包括以太坊虚拟机和图灵完整性的想法，比特币和以太坊之间的关键协议差异，以太坊的用例。
 
-# the instructors
 # 讲师
 Rustie Lin  
     Blockchain at Berkeley edX Lead
@@ -43,3 +40,7 @@ Rustie Lin
 Mengyi (Gloria) Wang
     Discussion Leader @ Blockchain Fundamentals Decal
     University of California, Berkeley
+    
+
+欢迎贡献
+知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议
